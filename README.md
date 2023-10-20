@@ -3,4 +3,6 @@ php.ini：extension=php_exif.dll
   
 WP  
 图片属性标题改为：', '', '', (select * from flag))#  
-上传图片造成SQL注入
+上传图片造成SQL注入  
+  
+![image](https://github.com/Night-Tac/EasyIMG/blob/main/index.png)
